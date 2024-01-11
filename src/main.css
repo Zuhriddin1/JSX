@@ -1,0 +1,44 @@
+body {
+  background: #000;
+}
+.head {
+  display: inline-flex;
+  height: 144px;
+  padding: 69px 95px 35.1px 150px;
+  justify-content: flex-end;
+  gap: 40px;
+  align-items: center;
+  cursor: pointer;
+  flex-shrink: 0;
+  color: #5e607a;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Inter;
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+}
+.homeOne {
+  padding-left: 614.908px;
+}
+.head p {
+  font-weight: 700;
+  font-size: large;
+}
+.Main {
+  width: 1110px;
+  height: 511px;
+  flex-shrink: 0;
+  background: white;
+}
+.buttonRed {
+  width: 185px;
+  height: 48px;
+  flex-shrink: 0;
+  background: #f15d51;
+  color: #fffdfa;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px; /* 171.429% */
+  letter-spacing: 4.375px;
+}
